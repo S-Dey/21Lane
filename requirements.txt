@@ -3,5 +3,5 @@ pyftpdlib==1.5.1
 PyInstaller==3.2
 pyqt-distutils==0.7.2
 PyQt5==5.7
-requests==2.12.4
+requests==2.20.0
 sip==4.18.1
